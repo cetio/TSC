@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "twilight_forest"
+	group: "0160C6C5FCE5F5ED"
+	icon: "twilightforest:naga_courtyard_miniature_structure"
+	id: "55FE02D4BE8FE044"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Twilight Forest"
+}

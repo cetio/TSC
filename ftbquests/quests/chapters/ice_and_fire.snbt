@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ice_and_fire"
+	group: "0160C6C5FCE5F5ED"
+	icon: "iceandfire:dragon_skull_fire"
+	id: "1D852FA5FBC3075E"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Ice and Fire"
+}

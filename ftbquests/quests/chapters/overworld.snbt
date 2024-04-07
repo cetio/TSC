@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "0160C6C5FCE5F5ED"
+	icon: "minecraft:grass_block"
+	id: "2B411257C7F0E2E8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Overworld"
+}

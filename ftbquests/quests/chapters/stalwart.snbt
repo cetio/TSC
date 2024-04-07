@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stalwart"
+	group: "0160C6C5FCE5F5ED"
+	icon: {
+		Count: 1b
+		id: "stalwart_dungeons:diamond_hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "0A1D03A2A819499F"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Stalwart"
+}

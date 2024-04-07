@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "0160C6C5FCE5F5ED"
+	icon: "minecraft:netherrack"
+	id: "39DF1EC08BCB7294"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Nether"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "eidolon"
+	group: "4FA98F4ACA4869FD"
+	icon: "eidolon:unholy_symbol"
+	id: "1040CA03CB6F05C4"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Eidolon"
+}

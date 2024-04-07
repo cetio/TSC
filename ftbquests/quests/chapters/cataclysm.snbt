@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cataclysm"
+	group: "0160C6C5FCE5F5ED"
+	icon: "cataclysm:remnant_skull"
+	id: "643431EE6B1116F1"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "Cataclysm"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "thermal_expansion"
+	group: "449B4FCE3D950C19"
+	icon: "thermal:machine_smelter"
+	id: "070752046070C336"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Thermal Expansion"
+}

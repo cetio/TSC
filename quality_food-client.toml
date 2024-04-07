@@ -1,0 +1,5 @@
+#Enable / disable particles to indicate the quality level of certain blocks (e.g. furnace)
+particles = true
+#Enable / disable effect tooltips for food items
+food_effects = true
+

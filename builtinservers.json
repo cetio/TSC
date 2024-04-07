@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "TSC",
+      "address": "ppeb.me:7777",
+      "forced": false
+    }
+  ]
+}
