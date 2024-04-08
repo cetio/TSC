@@ -13,7 +13,6 @@
 	per_spell_limit = 1
 	#The tier of the glyph
 	#Range: 1 ~ 99
-    #TODO: Make linger more expensive
 	glyph_tier = 2
 	#Limits the number of times a given augment may be applied to a given effect
 	#Example entry: "glyph_amplify=5"
