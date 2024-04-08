@@ -20,7 +20,7 @@
   "TridentShard": true,
   "GlowStick": true,
   "GildedNetherite": {
-    "enabled": true,
+    "enabled": false,
     "fireResistancePerPiece": 2.5
   },
   "DepthMeter": {
@@ -33,7 +33,7 @@
   "NoteBlockAmethystSounds": true,
   "ShipwreckSpyglassLoot": true,
   "PocketJukebox": true,
-  "ChickenNugget": true,
+  "ChickenNugget": false,
   "PoweredRailsCopperRecipe": true,
   "GlowBerryEatGlow": {
     "enabled": true,

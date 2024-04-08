@@ -103,11 +103,11 @@
 			#Toggle Darkness on End dimension
 			enableOnEnd = false
 			#Toggle Darkness default mode for modded dimensions
-			valueByDefault = false
+			valueByDefault = true
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
-			mode = "OFF"
+			mode = "TOTAL_DARKNESS"
 			#Toggles if moon phases affects darkness in the overworld
 			affectedByMoonPhase = true
 			#List of all dimensions to use True Darkness
@@ -122,7 +122,7 @@
 			#Toggle Darkness on Nether dimension
 			enableOnNether = false
 			#Toggle darkness when dimension has no SkyLight
-			enableOnNoSkyLight = false
+			enableOnNoSkyLight = true
 			#Disables all bright sources of darkness like moon or fog
 			#Only affects darkness effect
 			enableBlockLightOnly = false

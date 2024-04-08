@@ -12,10 +12,10 @@
 	#Pistons cause sound sense sources attracting monsters
 	noisyPistons = true
 	#Causes monsters to horde up and wander the surface together to random points
-	wanderingHordes = false
+	wanderingHordes = true
 	#How often in seconds we set a random point around a player for mobs to wander to from far away. Makes mobs path around more, dont use if you have TPS performance issues.
 	#Range: > -2147483648
-	frequencyOfWanderingHordesPerPlayer = 30
+	frequencyOfWanderingHordesPerPlayer = 45
 	#How loud sounds should be when you are alerted that a mob is coming to investigate an area near you
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	soundVolumeInvestigate = 0.5

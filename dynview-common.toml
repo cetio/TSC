@@ -11,7 +11,7 @@
 	minSimulationDist = 4
 	#The maximum simulation distance allowed to use. Default: 10
 	#Range: 1 ~ 200
-	maxSimulationDist = 10
+	maxSimulationDist = 16
 	#The average tick time to stabilize the chunk view distance around. Setting it higher than 50ms is not advised, as after 50ms the TPS will go below 20. Default: 45ms
 	#Range: 10 ~ 100
 	meanAvgTickTime = 45

@@ -2,7 +2,7 @@
   "koboldSpawnWeight": 10,
   "koboldWarriorSpawnWeight": 8,
   "chupacabraSpawnWeight": 20,
-  "drakeSpawnWeight": 5,
+  "drakeSpawnWeight": 1,
   "mushroomSpawnWeight": 20,
   "automatonHealth": 100.0,
   "automatonAttackDamage": 16.0,
